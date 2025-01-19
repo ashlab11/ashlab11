@@ -1,4 +1,4 @@
-Hi there! I'm Asher, a junior and half-decent coder at Brown University. I focus on statistical analysis and machine learning, with an interest in the creation of new algorithms with mathematical guarantees. The following are some of my most interesting repositories:
+Hi there! I'm Asher, a half-decent coder and junior at Brown University. I focus on statistical analysis and machine learning, with an interest in the creation of new algorithms with mathematical guarantees. The following are some of my most interesting repositories:
 
 **Active Projects**
 - In [ML Papers](https://github.com/ashlab11/ML-Papers-and-Replications/tree/main), I'm working on reading and replicating as many ML papers as I can, though it's a long process and I mostly work on it when I'm bored and aren't actively building something new. So far, I've built FFNN, Decision Tree, Random Forest, and Gradient Booster. Next to build are CNN, RNN, and SVM. I write notes on most/all of my readings and replications.
