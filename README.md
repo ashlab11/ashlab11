@@ -9,4 +9,4 @@ Hi there! I'm Asher, a junior and half-decent coder at Brown University. I focus
 - Along with one other Brown student, I designed [Time-Based Bayesian Optimization](https://github.com/ashlab11/Time-Based-Bayesian-Optimization), a method for derivative-free optimization in high-cost evaluation circumstances. It was created for a school project, and was ultimately submitted into NeurIPS. While it wasn't accepted (another researcher had discovered it a few years back), it's still fun to look at! The paper can be found in the README.
 - At an event hosted by the Institute for Replication, I worked with PhD students and professors to replicate a paper on green policies and rightward political shifts in Europe. The code can be found [here](https://github.com/ashlab11/ReplicationGames).
 
-These are just some of my projects, and I've got plenty more in the works! Feel free to reach out to me at asherlabovich@gmail.com for any questions. 
+These are just some of my projects, and I've got plenty more in the works! Feel free to reach out to me at asherlabovich@gmail.com with any questions. 
