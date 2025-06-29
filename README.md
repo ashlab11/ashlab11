@@ -2,6 +2,7 @@ Hi there! I'm Asher, a half-decent coder and senior at Brown University. I focus
 
 **Active Projects**
 - In [ML Papers](https://github.com/ashlab11/ML-Papers-and-Replications/tree/main), I'm working on reading and replicating as many ML papers as I can, though it's a long process and I mostly work on it when I'm bored and am not actively building something new. So far, I've built FFNN (numpy-only), Decision Tree, Random Forest, and Gradient Booster. Next to build are CNN, RNN, and SVM. I write notes on most/all of my readings and replications.
+- In [Encoder-Decoder SLM](https://github.com/ashlab11/Encoder-Decoder-SLM/tree/main), I'm working on building a new architecture for language models that combines recent advances in latent reasoning and encoder-decoder chatbots. I'm currently only able to train a 10M param model since I've only got a mac, but I hope to build a larger version soon!
 
 **Finished Projects**
 - I recently published a paper on K-Means Binning for GBDTs, which can be found in preprint format on [ArXiv](https://arxiv.org/abs/2505.12460). The code for this paper is [here](https://github.com/ashlab11/KMeansGBDT).
