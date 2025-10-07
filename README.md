@@ -2,8 +2,7 @@ Hi there! I'm Asher, a half-decent coder and senior at Brown University. I focus
 
 **Active Projects**
 
-- 
-- As part of my Applied Mathematics Honors thesis at Brown, I'm working on a new architecture for language models that would improve reasoning skills while drastically reducing necessary inference compute. I'll be training the compute equiuvalent of ~11 1B-param models with the help of Brown's supercomputer, OSCAR. All work on this paper is currently *private*, but it'll be made public once I've published! 
+- **Private project**: As part of my Applied Mathematics Honors thesis at Brown, I'm working on a new architecture for language models that would improve reasoning skills while drastically reducing necessary inference compute. I'll be training the compute equiuvalent of ~11 1B-param models with the help of Brown's supercomputer, OSCAR. All work on this paper is currently *private*, but it'll be made public once I've published! 
 - In [ML Papers](https://github.com/ashlab11/ML-Papers-and-Replications/tree/main), I'm working on building all the major ML/DL algorithms from scratch -- no pytorch or scikit-learn. So far I've built FFNN, DT, RF, and GBDTs. I mostly work on this when I'm bored and not actively building anything new.
 
 **Finished Projects**
