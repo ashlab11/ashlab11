@@ -1,4 +1,4 @@
-Hi there! I'm Asher, a half-decent coder and senior at Brown University. I focus on the development & analysis of statistical and ML algorithms, especially those with mathematical guarantees vis a vis conformal prediction. The following are some of my most interesting repositories:
+Hi there! I'm Asher, a half-decent coder and senior at Brown University. I focus on the development and analysis of algorithms designed to exploit inductive biases implicit in certain data types, whether that be tabular data or reasoning. The following are some of my most interesting projects:
 
 **Active Projects**
 
